@@ -3,9 +3,12 @@ print("Hello World")
 print("Goodbye World")
 
 def main(msg):
-	// Print a message
-    print(msg)
+	print(msg)
+	#No longer need comments
+
+# Print a message
 
 main("Hello People")
 
-// This is the next Comment
+# This is the next Comment
+# Another comment
